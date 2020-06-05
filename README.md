@@ -1,2 +1,2 @@
 # AI-Quaranteams
-Complete Solution to  caputre Social Distancing Voilations in Public Areas
+Efficient Solution to monitor Social Distancing and take corrective measures 
