@@ -1,7 +1,5 @@
 # AI QuaranTeams 
 Using python, deep learning and computer vision to monitor social distancing.
-Idea Credits: LandingAI
-
 # Short Description
 Efficient Solution to monitor Social Distancing and take corrective measures 
 
