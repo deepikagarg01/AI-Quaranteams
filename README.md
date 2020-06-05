@@ -37,14 +37,14 @@ Softwares required
 5. Install Python 3.5 or above 
 5. If Pip 20.0 is not available then use get-pip.py 
    and run python get-pip.py
-```
+
 
 ## Clone the repository
-```
+
 git clone https://github.com/deepikagarg01/AI-Quaranteams.git
 
 ## Run the project
-```
+
 Steps 
 cd AI-Quaranteams
 1. pip install –r requirements.txt
@@ -101,7 +101,7 @@ Features in UI
 
     1.Support for IOS Application 
 	2.Adding the statistics related to total head count, old Age people and kids
-    3.ntegeration of UI with the third party APP's like Google API, Arogya Setu APP
+    3.Integeration of UI with the third party APP's like Google API, Arogya Setu APP
 	
 ![Product_roadMap](documents/Product_RoadMap.gif)
 	
