@@ -30,8 +30,10 @@ def upload_to_aws(local_file, bucket, s3_file):
         print("Credentials not available")
         return False 
 
-ACCESS_KEY = 'AKIAYFXRICJOSDCHJ34R'
-SECRET_KEY = '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' 
+ACCESS_KEY = ''
+SECRET_KEY = '' 
+FILE_NAME = ''
+BUCKET_NAME = ''
 
 #3. to return a random value for within a given range of latitude
 dict_locality_details={'Millenium village-Alpha1':[28.402,77.498,10,'Residential','orange','20'],
@@ -63,7 +65,7 @@ end_timestamp_6 = time.mktime(time.strptime('Jun 1 2020  19:33:00', '%b %d %Y %H
 counter=range(200);
 counter_current=range(200);
 fields =['Timestamp', 'People in frame', 'No. of violations', 'Locality','Latitude','Longitude','Locality Type','Zone Category','Distance from containment area', 'Current Active Covid-19 Cases']   
-with open('social_distancing_dataset.csv', 'w', newline='') as file:
+with open(FILE_NAME, 'w', newline='') as file:
    sowriter = csv.writer(file, dialect='excel')
    sowriter.writerow(fields)
    for x1 in counter:
@@ -146,4 +148,4 @@ with open('social_distancing_dataset.csv', 'w', newline='') as file:
                    random.randint(0,25),
                    locality,latitude,longitude,locality_type,
                    zone_category,distance,active_cases])
-uploaded = upload_to_aws('social_distancing_dataset.csv', 'deepikahackathon', 'social_distancing_dataset.csv') 
+uploaded = upload_to_aws(FILE_NAME, BUCKET_NAME, FILE_NAME) 
