@@ -56,7 +56,7 @@ cd AI-Quaranteams
 7. run command python main.py --videopath "VideoPath" --region "Area_Name"
 8. output will be a CSV File and .mp4 video .mp4 for bird eye view
 ```
-
+![mark4points](images/Pedestrian.gif)
 
 Running main.py will open a window of the first frame in the video. At this point the code expects the user to mark 6 points by clicking appropriate positions on the frame.
 
@@ -69,7 +69,7 @@ These 4 points need to be provided in a pre-defined order which is following.
 * __Point3 (tl)__: Top left
 * __Point4 (tr)__: Top right
 
-![mark4points](images/Pedestrian.gif)
+
 
 #### Last 2 points:
 The last two points are used to mark two points 6 feet apart in the region of interest. For example this could be a person's height (easier to mark on the frame)
