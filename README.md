@@ -24,7 +24,7 @@ Section -3
 Data Filteration :
 Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
 
-##Getting Started 
+## Getting Started 
 The instructions can help you to install the project on you local environment
 
 ## Prerequisite 
