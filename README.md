@@ -22,15 +22,15 @@ Efficient Solution to monitor Social Distancing and take corrective measures
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Covid 19 Pandemic has bring up to everyone's  notice that how much social distancing is mandatory. We can still see the increasing number of cases in every state/Country due to negligence of Social Distancing Practices.It is hard to deploy large forces to monitor each area manually for a longer duration
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+We can help to simply the job for all rescue team deployed for ensuring the social distancing in an area. Restricted movements can be allowed in Schools, Colleges , Manufacturing Industries ,Public and Private Sectors Workplace
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Our Solution can be deployed to all the area under CCTV Scrutiny , where CCTV feed will be used to find the social distancing voilations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
 
 ## Demo video
 
