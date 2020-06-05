@@ -85,3 +85,7 @@ The complete block diagram of the algorithm can be seen below.
 ![Block Diagram](images/block_diagram.png)
 ```
 
+## Project Documentation
+The Diagram shows the High Level Design 
+![Project_Documents](documents/Architectural_Diagram.jpeg)
+
