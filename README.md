@@ -55,8 +55,9 @@ cd AI-Quaranteams
 6. pip install imagio-ffmpeg
 7. run command python main.py --videopath "VideoPath" --region "Area_Name"
 8. output will be a CSV File and .mp4 video .mp4 for bird eye view
-```
 ![mark4points](images/Pedestrian.gif)
+```
+
 
 Running main.py will open a window of the first frame in the video. At this point the code expects the user to mark 6 points by clicking appropriate positions on the frame.
 
