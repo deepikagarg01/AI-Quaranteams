@@ -1,0 +1,1001 @@
+Timestamp,People in frame,No. of violations,Locality,Latitude,Longitude,Locality Type,Zone Category,Distance from containment area,Current Active Covid-19 Cases
+May 15 2020 12:16:41,47,4,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 31 2020 00:33:55,29,13,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 23 2020 12:02:04,1,14,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 16 2020 18:44:23,37,17,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 24 2020 09:10:15,12,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 31 2020 08:32:35,50,13,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 09 2020 09:39:54,37,18,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 29 2020 19:27:29,8,5,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 06 2020 22:37:04,11,20,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 11 2020 15:43:27,3,6,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 22 2020 13:30:19,48,1,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 29 2020 14:43:33,38,8,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 09 2020 22:58:10,43,16,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 25 2020 15:14:05,45,9,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 24 2020 08:43:44,45,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 15 2020 12:34:03,22,16,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 01 2020 21:17:32,20,8,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 04 2020 22:33:23,48,18,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 29 2020 12:31:58,25,4,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 29 2020 14:21:48,0,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 15 2020 20:36:18,43,6,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 19 2020 13:42:09,7,10,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 25 2020 16:03:16,21,22,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 21 2020 00:17:01,30,7,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 19 2020 21:49:18,30,25,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 12 2020 05:26:57,35,23,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 08 2020 01:22:52,36,7,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 10 2020 18:08:45,27,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 22 2020 10:25:29,27,2,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 18 2020 16:00:45,17,15,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 27 2020 08:10:54,21,14,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 03 2020 21:24:53,34,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 02 2020 15:51:36,37,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 16 2020 15:01:50,13,10,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 13 2020 01:25:37,50,5,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 13 2020 03:42:51,33,23,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 10 2020 19:42:44,1,24,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 02 2020 21:39:06,49,11,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 01 2020 15:01:35,44,12,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 24 2020 12:49:36,18,24,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 30 2020 10:18:19,28,16,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 04 2020 06:37:26,35,3,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 21 2020 03:46:27,41,21,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 02 2020 21:32:38,2,7,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 09 2020 16:56:30,17,8,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 04 2020 19:22:22,25,6,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 01 2020 10:48:12,1,24,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 31 2020 23:27:54,34,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 03 2020 12:30:48,9,3,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 27 2020 09:39:27,34,8,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 29 2020 22:55:17,44,24,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 19 2020 03:10:54,27,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 26 2020 12:43:07,42,16,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 21 2020 06:45:09,47,11,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 28 2020 18:55:42,42,7,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 25 2020 10:47:09,31,3,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 17 2020 07:57:06,45,5,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 01 2020 04:20:36,42,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 27 2020 22:13:50,34,0,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 02 2020 16:58:15,31,17,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 03 2020 18:30:16,37,6,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 28 2020 05:54:47,37,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 08 2020 18:28:46,8,20,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 11 2020 08:08:26,17,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 02 2020 15:44:20,48,21,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 27 2020 15:37:18,49,25,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 20 2020 07:36:56,31,3,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 28 2020 23:48:18,15,21,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 17 2020 09:52:35,34,1,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 19 2020 10:45:50,16,9,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 31 2020 08:03:07,6,21,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 15 2020 15:48:12,5,5,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 02 2020 07:55:59,43,22,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 10 2020 22:53:57,26,8,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 05 2020 16:44:11,11,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 29 2020 11:46:16,41,7,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 10 2020 02:36:14,42,9,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 11 2020 05:40:32,3,10,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 02 2020 07:50:57,37,3,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 26 2020 18:01:37,8,16,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 24 2020 08:08:31,3,23,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 02 2020 23:51:03,0,24,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 02 2020 10:25:59,47,24,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 21 2020 18:06:55,4,0,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 16 2020 06:50:45,8,8,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 13 2020 18:04:13,4,2,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 25 2020 17:06:03,18,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 29 2020 10:45:48,14,0,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 20 2020 11:24:11,1,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 31 2020 16:04:19,46,19,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 09 2020 23:45:06,35,1,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 19 2020 00:50:46,7,7,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 09 2020 12:55:28,8,4,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 20 2020 18:21:27,25,9,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 08 2020 17:30:27,40,11,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 22 2020 23:03:05,35,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 29 2020 13:19:54,15,3,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 21 2020 09:29:37,50,25,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 19 2020 21:29:17,0,2,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 01 2020 14:06:08,19,4,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 20 2020 09:19:30,1,16,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 21 2020 11:30:32,19,5,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 27 2020 00:20:30,43,24,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 27 2020 01:59:36,14,13,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 31 2020 18:19:39,29,7,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 14 2020 18:13:36,39,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 19 2020 08:59:54,38,15,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 07 2020 21:59:55,3,13,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 14 2020 18:42:01,43,20,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 17 2020 08:12:57,16,20,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 10 2020 00:48:56,8,16,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 05 2020 09:04:18,42,17,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 03 2020 10:43:13,23,23,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 06 2020 13:43:59,25,9,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 27 2020 00:33:55,8,16,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 05 2020 07:29:58,8,21,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 16 2020 23:23:40,14,8,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 04 2020 11:32:07,28,23,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 21 2020 06:15:40,40,9,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 20 2020 08:14:02,26,14,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 23 2020 03:35:41,29,1,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 26 2020 23:27:27,48,21,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 14 2020 17:07:06,44,19,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 19 2020 20:58:52,21,16,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 30 2020 18:11:07,13,21,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 20 2020 19:18:22,4,15,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 14 2020 06:58:06,38,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 17 2020 08:03:56,9,3,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 08 2020 14:41:37,9,8,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 19 2020 06:43:57,32,13,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 28 2020 16:38:06,0,5,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 03 2020 11:48:52,38,8,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 17 2020 04:12:56,24,21,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 10 2020 22:22:16,49,3,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 20 2020 16:28:23,22,13,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 13 2020 14:41:06,26,23,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 22 2020 06:05:46,7,6,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 02 2020 05:37:51,44,17,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 02 2020 18:39:19,4,7,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 24 2020 23:13:04,1,19,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 23 2020 22:18:59,29,11,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 10 2020 05:43:54,21,4,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 09 2020 12:15:12,39,6,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 09 2020 06:25:20,4,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 06 2020 15:21:30,23,7,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 05 2020 13:47:17,2,3,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 14 2020 11:23:02,19,16,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 21 2020 21:34:18,30,5,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 10 2020 10:00:59,46,19,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 26 2020 00:17:39,11,2,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 24 2020 23:16:23,22,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 26 2020 20:05:25,19,13,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 24 2020 04:51:29,33,20,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 23 2020 03:05:13,15,22,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 12 2020 16:54:27,1,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 04 2020 04:53:07,23,15,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 28 2020 18:14:22,3,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 24 2020 08:47:13,28,8,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 23 2020 00:14:55,9,4,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 30 2020 14:51:26,50,15,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 01 2020 14:04:29,27,22,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 13 2020 21:43:12,24,5,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 28 2020 13:32:18,40,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 31 2020 17:56:28,16,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 23 2020 18:07:15,38,24,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 10 2020 00:34:49,39,17,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 05 2020 11:14:26,46,4,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 15 2020 13:40:03,1,21,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 07 2020 10:52:37,35,20,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 20 2020 07:06:47,15,15,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 12 2020 04:17:34,29,22,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 01 2020 18:47:18,27,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 24 2020 23:52:52,38,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 16 2020 10:03:55,28,11,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 12 2020 22:11:15,2,13,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 31 2020 16:09:28,33,18,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 10 2020 17:50:03,29,11,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 15 2020 01:25:01,34,8,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 08 2020 12:00:00,50,15,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 25 2020 11:07:38,38,10,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 01 2020 14:11:46,7,5,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 19 2020 01:07:03,15,2,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 10 2020 07:55:26,10,18,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 16 2020 09:10:16,0,6,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 31 2020 04:44:11,22,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 19 2020 23:58:06,24,14,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 31 2020 23:12:19,44,9,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 31 2020 16:00:08,30,25,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 17 2020 07:22:47,28,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 04 2020 15:35:35,23,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 12 2020 13:51:13,26,13,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 04 2020 19:03:18,12,16,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 30 2020 06:34:54,8,9,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 30 2020 17:39:57,46,25,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 30 2020 00:16:13,19,15,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 25 2020 19:48:57,30,15,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 11 2020 00:05:17,13,20,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 20 2020 02:05:42,3,10,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 08 2020 09:02:44,21,11,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 25 2020 06:08:38,44,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:12:43,43,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 19:20:39,1,2,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 19:05:47,49,20,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 21:10:53,41,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 17:57:07,1,7,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 20:08:28,28,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:26:49,12,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 18:40:44,50,4,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 19:40:27,44,2,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 19:41:56,48,5,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:47:43,13,20,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 20:26:30,45,3,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 20:49:40,33,15,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 18:16:45,30,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 19:00:36,4,17,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 19:05:53,21,4,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:15:12,6,15,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 21:02:57,43,9,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 19:30:50,41,14,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:37:24,6,14,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 20:43:02,21,15,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 21:21:48,30,2,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:47:27,1,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 19:16:07,39,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:30:35,1,8,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 20:02:50,3,8,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 17:18:41,1,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:45:25,22,19,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 20:41:19,38,11,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:42:18,40,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 19:12:44,18,14,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 20:04:47,10,2,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 18:42:03,48,17,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:12:10,46,16,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 20:43:42,29,15,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 19:57:49,28,25,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 19:41:14,23,21,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 20:26:40,13,1,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 18:32:48,36,9,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 17:04:17,11,2,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 18:42:37,49,11,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:40:09,13,13,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:32:22,48,6,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 20:01:35,42,9,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:18:33,31,13,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 20:51:03,16,25,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 19:40:20,34,23,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 20:52:36,18,24,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 20:15:00,36,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 21:09:15,22,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 17:27:13,12,9,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:02:10,33,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 19:52:56,14,13,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 17:20:41,17,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 17:56:56,1,10,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 18:54:47,1,6,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 17:21:53,46,1,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 17:31:45,43,5,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 21:02:59,26,14,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 18:57:25,9,18,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:22:04,16,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 19:20:01,19,10,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 17:07:50,14,18,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:33:51,37,12,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:53:43,43,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:33:49,45,21,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 18:06:28,10,19,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 21:09:34,40,25,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:30:28,8,1,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:34:13,18,5,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 17:17:08,10,4,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 18:10:35,7,23,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:30:45,16,14,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:11:35,6,19,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:52:16,14,1,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 21:00:53,28,10,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:14:09,29,0,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 17:53:58,34,15,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:14:00,15,5,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 20:04:37,38,1,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 20:39:34,36,20,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 17:54:56,8,6,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 18:58:35,21,10,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 18:41:34,35,22,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:45:19,8,5,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 19:48:46,28,21,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 21:08:03,0,4,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 21:05:55,22,12,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 21:02:08,36,24,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 21:29:21,9,20,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 20:11:31,48,16,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:58:08,1,3,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 19:38:25,21,9,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 18:17:19,8,24,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 18:44:07,14,20,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 18:56:52,3,7,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 18:32:04,10,11,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 18:40:07,36,3,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 19:57:48,38,24,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 20:10:16,16,24,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 17:01:57,24,15,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 19:01:04,46,4,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 18:27:04,14,22,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 20:03:38,29,16,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 20:57:16,0,19,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:28:51,3,4,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 20:36:32,17,4,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:52:49,25,22,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 19:40:11,31,5,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 19:52:26,37,24,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 18:18:19,27,15,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:39:32,5,23,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 20:45:05,8,13,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 19:44:12,41,24,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 21:22:09,20,13,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:38:30,17,22,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 21:30:22,14,13,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 19:20:02,40,22,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:47:33,34,18,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 17:36:59,26,16,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 17:45:39,3,15,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 18:44:38,20,22,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 19:32:47,24,1,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:06:56,14,22,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 17:29:39,28,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 19:58:27,28,9,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 20:02:58,16,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 20:22:52,5,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 20:55:15,48,3,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 19:47:44,48,7,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:24:48,2,4,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 20:08:53,17,11,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 18:13:57,42,4,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 17:12:09,27,2,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:14:59,15,17,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 21:19:43,7,12,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:22:32,46,8,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 18:12:26,44,25,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 17:43:40,35,9,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 20:03:39,32,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 17:32:05,11,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 18:48:02,35,15,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 17:39:58,12,16,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 19:52:21,16,24,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 19:09:25,36,16,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 20:34:58,16,9,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:45:52,17,5,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 19:19:51,40,24,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 19:40:37,42,11,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 20:04:19,7,18,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 18:32:18,45,18,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 18:08:11,28,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 17:13:16,13,18,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 21:11:00,21,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:19:26,21,25,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 19:07:59,50,2,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 03 2020 19:23:06,5,9,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 20:11:19,18,20,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 20:49:22,11,18,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 19:18:01,45,22,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 17:06:44,31,11,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 17:46:44,16,22,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 19:26:03,33,20,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 20:01:53,42,3,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 20:39:41,32,24,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 20:25:50,27,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 17:47:22,6,7,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 19:37:05,47,1,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 18:15:21,45,10,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 21:13:40,13,5,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 18:12:40,33,8,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:05:09,33,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 20:04:34,12,22,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 20:18:36,6,25,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 19:56:44,49,12,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 21:10:09,6,4,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 17:51:32,21,17,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 20:42:00,29,8,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 18:16:04,33,6,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 19:22:55,31,23,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 19:00:35,37,17,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 19:24:49,20,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 19:48:24,0,18,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 03 2020 19:24:15,35,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 20:32:22,35,12,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 03 2020 19:29:54,47,0,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 19:54:26,18,4,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 03 2020 20:18:02,24,2,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 03 2020 17:41:11,25,16,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 17:44:34,48,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 19:34:07,0,22,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 03 2020 18:12:01,50,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 17:55:44,27,25,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 03 2020 20:35:05,40,7,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 19:31:10,29,17,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 03 2020 21:31:18,29,11,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 20:53:04,4,10,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 03 2020 21:28:52,29,21,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 03 2020 19:09:58,48,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 03 2020 20:50:02,17,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 07:40:41,9,4,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 16:39:27,41,11,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 16:57:32,7,13,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 09:52:18,4,0,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 17:08:51,50,23,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 12:09:44,4,2,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 19:22:50,22,7,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 16:23:23,4,6,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 16:06:02,50,21,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 09:12:22,21,16,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 11:13:12,23,11,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 10:41:12,2,12,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 11:48:22,16,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 14:07:38,25,21,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 18:29:22,15,16,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 10:15:34,0,18,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 15:39:16,7,24,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 07:41:30,1,18,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 07:19:59,39,15,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 18:39:44,45,14,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 08:15:05,2,4,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 19:24:14,25,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 15:36:09,29,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 18:06:33,14,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 13:29:54,37,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 14:19:03,2,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 07:19:24,37,5,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 12:41:58,15,7,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 14:53:49,19,3,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 11:57:16,36,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 14:20:30,48,3,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 07:18:24,49,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 17:12:56,40,18,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 08:01:18,13,17,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 13:34:06,33,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 10:12:31,26,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 07:23:07,2,24,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 11:37:28,6,12,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 10:20:27,31,16,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 10:26:38,3,17,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 19:16:08,23,24,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 18:41:53,42,11,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 09:48:28,39,5,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 12:37:34,28,6,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 19:23:30,3,10,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 16:53:11,42,4,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 13:20:03,5,5,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 14:10:53,43,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 10:50:34,15,14,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 08:57:16,20,13,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 12:12:42,9,24,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 14:59:29,35,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 12:30:20,3,13,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 10:27:10,9,20,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 15:44:29,23,18,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 12:51:29,23,20,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 14:23:07,41,20,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 12:47:10,41,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 13:44:20,3,12,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 10:35:27,40,25,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 13:57:47,35,14,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 07:59:59,40,25,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 11:11:25,2,16,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 18:33:55,12,16,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 16:23:24,9,10,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 17:14:46,3,12,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 10:15:13,40,12,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 18:10:07,20,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 10:20:42,9,15,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 14:02:17,10,22,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 13:12:00,15,20,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 09:27:47,14,8,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 08:02:13,6,10,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 09:41:40,17,14,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 14:48:31,24,1,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 14:27:24,6,5,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 17:09:42,5,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 08:36:56,42,2,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 09:48:15,41,10,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 10:27:12,50,17,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 18:11:12,25,12,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 14:52:44,27,11,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 18:27:27,27,7,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 13:07:29,41,24,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 13:31:04,23,18,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 11:25:24,18,15,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 16:12:38,4,0,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 08:08:23,21,23,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 18:06:42,1,24,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 14:16:12,44,21,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 12:42:23,23,5,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 07:24:30,43,10,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 10:39:29,40,15,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 14:09:34,14,6,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 09:16:03,8,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 08:06:35,20,4,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 12:08:39,32,14,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 18:00:36,12,15,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 12:41:27,16,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 08:05:43,21,2,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 09:28:53,37,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 14:56:22,43,20,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 15:24:18,10,25,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 16:15:24,15,15,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 17:02:03,9,7,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 18:02:26,22,0,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 10:35:35,23,6,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 12:11:16,18,17,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 09:36:15,2,19,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 18:07:55,42,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 17:06:27,4,20,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 18:06:14,41,0,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 14:03:23,20,13,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 14:50:57,44,21,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 15:45:43,28,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 13:25:46,34,5,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 15:10:41,16,23,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 12:34:48,44,1,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 19:28:23,34,15,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 07:23:38,12,16,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 16:01:40,37,21,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 09:36:14,49,12,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 10:39:30,42,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 14:26:03,25,12,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 17:12:54,49,19,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 17:08:06,4,6,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 09:28:00,9,21,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 18:09:36,18,9,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 09:47:00,47,24,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 09:09:42,9,16,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 18:00:31,48,10,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 16:18:01,18,25,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 10:45:23,25,23,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 08:36:56,1,19,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 18:22:41,11,20,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 08:24:34,13,9,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 12:05:46,17,2,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 08:11:26,32,7,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 11:15:08,33,8,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 13:05:00,6,10,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 15:00:10,12,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 11:26:40,17,24,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 14:28:10,10,12,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 07:24:43,11,25,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 13:02:50,21,11,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 17:23:14,26,8,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 15:54:38,48,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 11:14:22,43,3,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 13:03:40,23,15,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 18:31:50,3,8,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 19:23:46,17,1,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 16:23:59,29,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 09:05:18,49,17,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 15:36:15,26,20,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 10:57:25,43,21,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 17:31:40,15,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 17:28:59,29,20,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 16:42:45,21,23,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 17:33:40,43,18,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 14:58:56,48,18,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 15:48:57,37,15,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 12:07:15,10,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 17:23:14,5,17,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 14:23:05,24,24,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 07:47:56,34,11,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 17:18:11,3,7,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 12:07:38,26,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 13:20:29,18,14,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 12:23:17,38,21,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 13:08:49,21,14,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 17:41:24,13,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 13:00:20,12,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 04 2020 07:23:32,32,7,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 04 2020 19:08:54,37,9,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 19:03:59,16,3,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 12:58:07,43,10,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 16:26:31,28,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 07:41:07,28,0,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 16:25:05,46,5,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 09:07:06,35,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 18:51:28,1,12,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 10:50:12,38,10,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 04 2020 07:25:41,20,15,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 16:02:17,41,23,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 14:06:15,37,1,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 17:47:42,44,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 08:29:56,30,16,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 04 2020 10:39:29,41,4,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 15:21:14,41,4,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 04 2020 18:55:57,6,14,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 04 2020 19:14:01,47,17,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 18:47:11,48,22,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 04 2020 15:33:06,31,12,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 14:51:00,1,18,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 04 2020 14:59:10,15,10,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 04 2020 15:25:38,27,16,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 11:20:57,20,6,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 12:09:11,15,2,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 04 2020 17:57:31,39,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 04 2020 15:42:54,5,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 12:27:32,50,7,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 12:43:57,17,16,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 07:23:11,15,20,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 19:09:22,45,9,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 10:58:28,9,2,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 15:12:17,50,6,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 14:44:28,3,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 08:15:36,34,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 17:40:18,21,5,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 14:35:43,43,15,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 19:04:54,29,25,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 18:09:30,45,3,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 07:19:33,29,16,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 10:58:04,10,11,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 09:17:28,33,10,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 16:33:49,16,14,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 12:50:43,28,2,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 11:18:06,16,6,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 18:00:02,32,12,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 10:42:15,39,22,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 13:02:49,17,16,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 12:58:33,16,22,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 09:58:01,50,19,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 15:25:28,28,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 12:44:47,6,9,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 16:01:37,27,25,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 18:53:56,50,20,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 17:41:24,36,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 11:13:42,1,19,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 10:24:12,44,20,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 14:27:48,20,6,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 13:25:46,12,2,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 12:03:39,37,8,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 15:30:15,39,3,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 11:28:18,31,6,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 10:08:30,3,9,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 14:26:35,0,21,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 14:45:31,1,2,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 16:38:20,27,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 16:00:01,14,18,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 08:46:54,18,8,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 12:13:17,0,20,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 14:40:48,30,11,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 14:47:08,42,21,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 15:01:56,35,12,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 17:41:16,27,12,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 16:38:32,12,1,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 07:35:01,14,22,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 12:51:49,37,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 16:30:15,45,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 10:16:58,25,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 10:00:46,17,23,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 10:18:00,32,17,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 09:33:56,42,9,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 15:51:55,46,18,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 10:01:22,10,22,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 08:18:11,21,21,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 07:17:52,36,1,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 08:32:51,9,11,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 12:41:49,18,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 12:55:46,17,15,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 14:22:50,41,0,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 13:34:32,11,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 15:14:47,40,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 16:16:54,15,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 18:45:03,11,24,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 19:14:16,24,12,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 09:34:18,5,2,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 13:33:20,35,6,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 13:37:24,13,20,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 11:27:00,13,9,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 14:22:47,10,17,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 11:47:46,25,25,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 15:48:39,5,22,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 18:30:38,34,15,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 18:35:28,23,6,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 19:18:20,40,8,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 14:30:19,13,11,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 09:02:04,33,3,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 14:54:47,42,7,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 10:54:09,11,10,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 12:30:02,10,21,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 19:08:23,9,16,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 14:32:29,27,23,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 13:07:09,25,13,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 12:29:25,1,0,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 10:06:51,28,8,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 08:38:47,20,20,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 12:57:45,34,15,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 14:10:51,2,7,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 16:51:22,1,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 14:54:25,39,15,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 15:11:49,24,24,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 12:00:46,50,23,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 14:48:26,40,15,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 07:16:45,9,1,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 07:08:42,17,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 14:14:59,3,14,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 16:37:45,31,17,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 19:21:22,11,3,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 12:34:04,37,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 08:09:45,43,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 07:43:41,22,12,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 14:52:21,22,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 14:56:24,38,13,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 17:28:32,20,2,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 13:09:04,44,13,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 16:32:27,35,16,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 16:41:47,17,9,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 15:16:55,36,9,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 08:59:21,37,14,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 13:03:57,32,22,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 18:43:53,10,2,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 07:46:41,45,10,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 15:44:35,13,15,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 09:18:43,27,17,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 09:11:56,11,12,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 17:56:27,9,25,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 15:51:30,35,25,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 11:21:09,0,14,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 16:26:32,17,12,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 12:13:43,24,25,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 11:00:05,14,24,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 10:29:34,23,22,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 09:55:31,18,16,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 07:39:26,17,14,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 13:54:32,26,1,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 11:18:11,15,11,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 18:41:16,32,20,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 18:11:26,24,1,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 10:59:25,38,11,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 16:53:39,10,22,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 16:04:48,23,21,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 16:55:19,33,7,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 08:55:36,15,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 15:48:53,29,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 13:03:26,23,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 12:42:28,11,5,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 15:49:52,50,22,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 18:20:49,49,25,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 15:31:16,26,7,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 14:16:50,16,21,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 18:37:53,9,1,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 11:11:12,8,21,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 07:23:51,37,12,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 18:29:22,9,19,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 18:41:10,40,9,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 09:37:12,4,22,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 10:49:57,22,22,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 11:41:15,33,24,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 12:32:49,43,25,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 15:04:57,35,8,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 08:19:39,37,0,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 09:07:16,7,19,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 08:08:31,35,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 10:20:14,14,9,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 08:55:58,7,10,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 19:22:04,32,12,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 11:28:21,33,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 11:33:35,47,20,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 10:55:10,34,21,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 05 2020 10:11:48,13,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 14:59:16,42,3,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 15:04:09,10,6,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 12:36:16,24,25,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 08:23:29,17,15,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 10:15:10,46,3,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 08:38:36,21,18,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 07:34:04,3,19,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 15:27:29,31,19,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 13:45:58,0,5,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 10:31:27,1,17,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 15:41:08,17,4,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 09:25:36,40,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 15:10:04,3,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 16:02:47,45,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 08:55:12,8,4,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 11:51:27,6,19,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 13:57:16,40,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 18:49:02,21,5,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 07:14:15,2,9,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 10:03:41,31,10,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 10:07:47,47,5,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 13:00:38,49,0,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 07:27:23,28,8,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 09:59:20,35,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+Jun 05 2020 13:44:45,44,22,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 07:17:24,19,24,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+Jun 05 2020 16:04:29,26,10,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 12:39:39,13,10,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 05 2020 15:45:07,10,13,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 07:30:25,10,14,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+Jun 05 2020 07:20:05,29,24,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+Jun 05 2020 13:01:26,49,10,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 12:53:01,1,1,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+Jun 05 2020 08:51:00,3,17,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 05 2020 13:44:22,42,25,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+Jun 05 2020 12:00:51,13,17,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 05 2020 10:57:02,33,12,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 05 2020 14:26:49,29,14,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 07 2020 13:39:42,36,25,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 05 2020 07:34:46,2,4,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 06 2020 04:21:41,7,14,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 08 2020 12:39:37,11,4,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 22 2020 10:07:06,2,7,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 25 2020 06:21:06,16,11,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 24 2020 17:14:05,34,6,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 13 2020 21:13:21,39,15,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 25 2020 10:18:40,10,13,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 03 2020 18:51:07,50,10,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 30 2020 08:00:30,1,23,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 01 2020 11:55:36,13,22,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 26 2020 05:09:18,41,2,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 06 2020 15:28:58,26,19,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 20 2020 05:34:27,37,23,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 25 2020 05:54:15,11,2,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 18 2020 21:29:06,18,24,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 10 2020 18:45:43,23,10,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 03 2020 04:59:09,41,14,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 20 2020 21:26:28,30,2,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 29 2020 09:25:36,49,11,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 29 2020 04:52:56,17,19,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 31 2020 07:18:39,27,18,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 19 2020 07:57:48,50,15,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 03 2020 18:19:59,34,6,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 01 2020 16:15:30,24,9,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 24 2020 10:01:37,12,2,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 12 2020 07:35:48,29,20,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 21 2020 00:18:17,40,24,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 04 2020 09:25:16,47,4,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 26 2020 03:10:14,25,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 16 2020 14:44:51,38,24,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 19 2020 11:19:13,36,7,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 07 2020 14:11:09,28,24,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 10 2020 13:50:16,33,1,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 28 2020 13:56:24,38,23,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 25 2020 20:29:41,47,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 29 2020 16:55:08,21,9,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 04 2020 19:21:03,6,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 19 2020 11:58:57,20,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 05 2020 12:54:28,35,21,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 08 2020 11:32:40,18,22,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 24 2020 19:45:04,50,23,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 22 2020 02:48:39,41,13,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 17 2020 14:59:26,13,16,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 07 2020 14:45:59,47,13,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 05 2020 04:39:01,26,22,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 17 2020 20:15:30,4,25,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 03 2020 12:27:33,21,5,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 15 2020 05:13:41,19,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 19 2020 00:04:58,50,0,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 09 2020 10:22:49,41,1,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 04 2020 05:47:49,49,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 23 2020 18:43:11,31,10,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 02 2020 16:37:53,3,17,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 05 2020 01:44:55,27,6,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 26 2020 20:47:34,5,12,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 15 2020 08:10:39,10,13,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 27 2020 19:00:39,40,25,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 11 2020 15:21:18,35,12,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 18 2020 04:00:54,10,23,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 03 2020 17:39:22,49,22,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 17 2020 15:19:12,30,0,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 22 2020 21:13:54,18,23,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 15 2020 13:32:17,39,7,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 15 2020 11:19:50,16,7,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 24 2020 20:45:13,33,0,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 24 2020 16:41:54,0,13,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 18 2020 22:13:07,26,22,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 28 2020 02:54:57,44,15,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 09 2020 09:44:16,47,11,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 02 2020 07:20:02,45,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 07 2020 09:13:56,4,20,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 08 2020 19:05:46,27,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 04 2020 01:49:02,3,15,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 24 2020 18:55:57,14,7,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 08 2020 04:57:33,23,9,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 21 2020 23:42:28,1,7,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+Jun 01 2020 08:51:58,11,19,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 03 2020 03:55:43,14,23,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 22 2020 16:44:16,33,25,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 30 2020 05:14:27,20,7,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 27 2020 04:40:37,23,8,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 20 2020 21:46:04,2,5,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 06 2020 14:48:36,4,7,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 14 2020 04:50:59,8,5,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 24 2020 13:22:37,33,6,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 18 2020 03:40:54,22,24,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 23 2020 12:27:35,41,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 16 2020 12:07:58,25,17,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 17 2020 18:05:03,35,23,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 01 2020 21:11:44,3,17,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 26 2020 08:31:29,17,2,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 24 2020 20:34:35,40,17,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 09 2020 02:21:36,28,13,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 18 2020 19:19:09,39,5,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 09 2020 12:04:19,45,8,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 14 2020 13:31:44,29,23,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 13 2020 20:01:51,14,18,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 01 2020 08:41:06,31,18,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 18 2020 19:43:16,32,0,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 28 2020 23:57:59,7,23,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 25 2020 01:56:28,50,18,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 26 2020 08:22:07,18,0,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 25 2020 07:09:51,8,9,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 01 2020 18:15:35,15,21,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 19 2020 14:55:56,39,23,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 13 2020 13:51:40,11,6,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 13 2020 00:53:24,46,8,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 25 2020 14:33:36,17,11,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 31 2020 02:10:38,27,18,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 15 2020 00:07:56,11,6,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 15 2020 22:52:05,8,2,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+Jun 01 2020 08:55:47,16,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 16 2020 17:21:12,36,0,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 05 2020 05:31:34,8,24,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 04 2020 18:36:19,15,3,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 22 2020 14:39:34,38,5,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 20 2020 03:57:42,30,19,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 31 2020 21:21:25,45,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+Jun 01 2020 09:38:40,18,1,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 10 2020 20:56:44,6,18,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 08 2020 22:02:22,47,14,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 26 2020 19:04:57,1,3,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 13 2020 11:58:23,4,6,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 05 2020 17:23:02,44,19,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 02 2020 19:58:16,45,16,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 26 2020 23:57:50,36,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 02 2020 00:32:01,40,10,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 05 2020 15:47:44,16,6,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 09 2020 21:01:27,48,0,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 26 2020 11:44:55,18,7,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 23 2020 16:49:15,39,25,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 13 2020 17:38:08,50,7,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 16 2020 11:00:19,17,7,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 17 2020 11:28:00,7,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 17 2020 09:53:39,28,21,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 20 2020 06:53:30,21,17,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 26 2020 21:48:15,18,22,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 15 2020 11:45:23,35,8,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 04 2020 15:59:59,9,20,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 21 2020 12:27:59,31,12,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 11 2020 06:12:46,27,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 24 2020 06:02:39,48,14,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 12 2020 11:17:34,49,0,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 05 2020 09:01:12,46,2,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 12 2020 07:30:48,32,8,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 19 2020 17:04:22,19,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 30 2020 22:52:38,4,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 27 2020 17:37:00,22,18,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 02 2020 05:33:34,8,5,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 06 2020 06:25:06,43,15,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 04 2020 15:24:36,1,16,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 20 2020 21:30:01,21,9,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 11 2020 00:21:27,31,3,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+Jun 01 2020 06:56:16,26,3,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 01 2020 09:54:30,45,14,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 31 2020 00:51:03,15,8,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 02 2020 10:11:09,22,12,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 21 2020 06:24:36,45,1,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 11 2020 03:30:49,40,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 17 2020 11:47:16,38,22,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 19 2020 00:15:12,47,0,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 08 2020 16:32:18,31,6,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+Jun 01 2020 14:10:01,28,24,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 11 2020 06:13:01,43,20,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 23 2020 12:09:31,17,1,Elder Homes-Alpha2,28.491,77.508,Old-Age Home,orange,19,23
+May 26 2020 16:53:26,35,21,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 04 2020 16:41:15,19,23,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 11 2020 19:01:03,1,7,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 08 2020 08:26:55,15,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 11 2020 20:57:10,5,6,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 02 2020 13:32:22,19,10,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 28 2020 11:15:52,28,1,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 15 2020 18:57:15,34,25,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 30 2020 17:29:48,50,15,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 26 2020 17:38:20,46,8,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 25 2020 02:42:43,9,2,Sommerville school-Alpha2,28.496,77.507,School,orange,9.5,32
+May 21 2020 16:23:41,11,4,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 18 2020 21:55:16,23,8,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 03 2020 09:59:54,14,18,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 16 2020 22:42:34,21,22,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 27 2020 11:30:48,35,9,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 11 2020 12:46:37,49,11,Millenium village-Alpha1,28.402,77.498,Residential,orange,10,20
+May 06 2020 15:34:06,5,20,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 05 2020 02:48:45,16,17,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 09 2020 12:05:18,0,10,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 04 2020 17:53:48,3,24,City Park-Alpha2,28.504,77.502,Park,green,15,3
+May 29 2020 01:08:21,20,12,Arsh Complex-Alpha1,28.463,77.489,Commercial,red,1,58
+May 24 2020 03:19:40,46,4,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 13 2020 20:34:30,35,5,Golf Vista-Alpha2,28.501,77.51,Residential,red,3,55
+May 12 2020 04:06:49,31,2,Central park-Alpha1,28.442,77.501,Park,green,7,15
+May 19 2020 01:04:27,49,18,St. Josephs school-Alpha1,28.432,77.483,School,green,9,2
+May 02 2020 21:25:58,47,18,Oasis homes-Alpha2,28.486,77.513,Residential,green,13,0
+May 06 2020 20:45:11,39,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 28 2020 17:57:27,0,21,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 06 2020 14:24:12,11,1,Edana-Alpha1,28.472,77.488,Residential,red,0,75
+May 28 2020 13:26:18,18,21,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 08 2020 04:36:30,49,23,Alpha commercial belt- Alpha1,28.455,77.499,Commercial,orange,12,35
+May 27 2020 03:32:45,0,13,Central park-Alpha1,28.442,77.501,Park,green,7,15
