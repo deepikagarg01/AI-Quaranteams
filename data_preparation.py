@@ -30,6 +30,7 @@ def upload_to_aws(local_file, bucket, s3_file):
         print("Credentials not available")
         return False 
 
+#Needs to be filled bu user
 ACCESS_KEY = ''
 SECRET_KEY = '' 
 FILE_NAME = ''
