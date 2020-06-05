@@ -24,7 +24,7 @@ Section -3
 Data Filteration :
 Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
 ```
-## Getting Started 
+###Getting Started 
 The instructions can help you to install the project on you local environment
 
 ## Prerequisite 
@@ -39,11 +39,11 @@ Softwares required
    and run python get-pip.py
 ```
 
-### Clone the repository
+## Clone the repository
 ```
 git clone https://github.com/deepikagarg01/AI-Quaranteams.git
 
-### Run the project
+## Run the project
 ```
 Steps 
 cd AI-Quaranteams
@@ -92,10 +92,13 @@ The Diagram shows the Human Detection Process
 The RoadMap  defines the timelines and Upcoming Features
 
 Features in Model 
+
     *HeadCount : Calculating the total head count in the targeted area. Useful for evacutation in PANIC times
     *Mask Indentification : Identifying the people with Mask 
     *Old Age/Kids Identification : Identifying old age people and kids 
+	
 Features in UI 
+
     *Support for IOS Application 
 	*Adding the statistics related to total head count, old Age people and kids
     *ntegeration of UI with the third party APP's like Google API, Arogya Setu APP
