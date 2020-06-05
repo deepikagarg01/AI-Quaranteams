@@ -68,19 +68,17 @@ These 4 points need to be provided in a pre-defined order which is following.
 * __Point3 (tl)__: Top left
 * __Point4 (tr)__: Top right
 
-
-
 #### Last 2 points:
 The last two points are used to mark two points 6 feet apart in the region of interest. For example this could be a person's height (easier to mark on the frame)
-How does it work?
-The complete block diagram of the algorithm can be seen below.
-![block_diagram](images/block_diagram.gif)
 
 #### Plot points
 The gif below will help understand the points better
 ![mark4points](images/mark4points.gif)
 ![mark4points](images/Pedestrian.gif)
 
+How does it work?
+The complete block diagram of the algorithm can be seen below.
+![block_diagram](images/block_diagram.gif)
 
 ####Project Documentation
 The Diagram shows the High Level Design 
@@ -88,6 +86,22 @@ The Diagram shows the High Level Design
 
 The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
-```
+
+###Project RoadMap
+The RoadMap  defines the timelines and Upcoming Features
+
+*__Features in Model 
+    *__HeadCount : Calculating the total head count in the targeted area. Useful for evacutation in PANIC times
+    *__Mask Indentification : Identifying the people with Mask 
+    *__Old Age/Kids Identification : Identifying old age people and kids 
+*__Features in UI 
+    *__Support for IOS Application 
+	*__Adding the statistics related to total head count, old Age people and kids
+    *__Integeration of UI with the third party APP's like Google API, Arogya Setu APP
+	
+![Product_roadMap](documents/RoadMap.gif)
+	
+
+
 
 
