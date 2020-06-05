@@ -1,33 +1,93 @@
 # AI QuaranTeams 
 
-# Short Description
+## Contents
+1. [Short description](#short-description)
+1. [Demo video](#demo-video)
+1. [The architecture](#the-architecture)
+1. [Long description](#long-description)
+1. [Project roadmap](#project-roadmap)
+1. [Getting started](#getting-started)
+1. [Running the tests](#running-the-tests)
+1. [Live demo](#live-demo)
+1. [Built with](#built-with)
+1. [Contributing](#contributing)
+1. [Versioning](#versioning)
+1. [Authors](#authors)
+1. [License](#license)
+1. [Acknowledgments](#acknowledgments)
+
+
+## Short Description
 Efficient Solution to monitor Social Distancing and take corrective measures
 
-# Long Description
+### What's the problem?
+
+Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+
+### How can technology help?
+
+Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+
+### The idea
+
+It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+
+## Demo video
+
+
+## The architecture
+The Diagram shows the High Level Design 
+![Architectural_Diagram](documents/Architectural_Diagram.gif)
+
+The Diagram shows the Human Detection Process
+![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
+
+## Long Description
 AI Quarateams in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the voilations happening in other areas and get the cummulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
 Solution can be described in 3 Sections 
 
-Section -1 
+### Section -1 
 Model for Object Detection, where Camera feed will be an input to the model for detection of  voilations based on the distance set by the user as a minimun required  distance .
 The data will be analysed per frame and can be stored in central server/repository.
 The Model is based on python tensor flow neural networks . Model has been trained by providing various images and manually labelling the images to differentiate between human and other objects.For object detection in a video feed , openCv has been used to get the camera perspective and perspective transformation for finding the minimum distance required for social distancing.We are using condense matrix implementation for identifying the distance between many objects detected within a particular frame.If the distance is less than the threshold value , voilation count increases.
 
-UI 
-Section -2 
+
+### Section -2 
+User Interface
+
 Authorized user can view the data using our website. On Successful user login , google AP will request for the user location and display the user's location data (user location is a default location). Other Regions data can be seen by selecting the location on google map .
 Based on the region selection the data will fetched from central server along with the live feed. Statistics of different regions can be compared . For alarming situations SMS/Email can be sent to the designated person.
 
 Mobile App and QR Code 
+
 For Easy Handling QR code and  Android Mobile Application has been created . User can view the voilations on mobile phones .
 
-Section -3 
-Data Filteration :
+### Section -3 
+Data Filteration 
+
 Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
 
+## Project RoadMap
+The RoadMap  defines the timelines and Upcoming Features
+
+Features in Model 
+
+    1.HeadCount : Calculating the total head count in the targeted area. Useful for evacuation in Emergency 
+    2.Mask Indentification : Identifying the people with Mask 
+    3.Old Age/Kids Identification : Identifying old age people and kids 
+	
+Features in UI 
+
+    1.Support for IOS Application 
+	2.Adding the statistics related to total head count, old Age people and kids
+    3.Integeration of UI with the third party APP's like Google API, Arogya Setu APP
+	
+![Product_roadMap](documents/Product_RoadMap.gif)
+	
 ## Getting Started 
 The instructions can help you to install the project on you local environment
 
-## Prerequisite 
+### Prerequisite 
 
 Softwares required 
 1. Windows Server
@@ -39,11 +99,11 @@ Softwares required
    and run python get-pip.py
 
 
-## Clone the repository
+### Clone the repository
 
 git clone https://github.com/deepikagarg01/AI-Quaranteams.git
 
-## Run the project
+### Run the project
 
 Steps 
 cd AI-Quaranteams
@@ -80,31 +140,10 @@ How does it work?
 The complete block diagram of the algorithm can be seen below.
 ![block_diagram](images/block_diagram.gif)
 
-# Project Documentation
-The Diagram shows the High Level Design 
-![Architectural_Diagram](documents/Architectural_Diagram.gif)
-
-The Diagram shows the Human Detection Process
-![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
 
-# Project RoadMap
-The RoadMap  defines the timelines and Upcoming Features
 
-Features in Model 
 
-    1.HeadCount : Calculating the total head count in the targeted area. Useful for evacuation in Emergency 
-    2.Mask Indentification : Identifying the people with Mask 
-    3.Old Age/Kids Identification : Identifying old age people and kids 
-	
-Features in UI 
-
-    1.Support for IOS Application 
-	2.Adding the statistics related to total head count, old Age people and kids
-    3.Integeration of UI with the third party APP's like Google API, Arogya Setu APP
-	
-![Product_roadMap](documents/Product_RoadMap.gif)
-	
 
 
 
