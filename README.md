@@ -8,12 +8,8 @@
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Live demo](#live-demo)
-1. [Contributing](#contributing)
 1. [Built with](#built-with)
 1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
-
 
 
 ## Short Description
@@ -149,7 +145,11 @@ The complete block diagram of the algorithm can be seen below.
 
 ## Versioning
 
-We use git for versioning. 
+We use gitlab for versioning. 
+
+## Authors
+See also the list of [contributors](https://github.com/deepikagarg01/AI-Quaranteams/graphs/contributors) who participated in this project.
+
 
 
 
