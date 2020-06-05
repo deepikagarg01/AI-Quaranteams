@@ -87,17 +87,17 @@ The Diagram shows the High Level Design
 The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
-###Project RoadMap
+####Project RoadMap
 The RoadMap  defines the timelines and Upcoming Features
 
-*__Features in Model 
-    *__HeadCount : Calculating the total head count in the targeted area. Useful for evacutation in PANIC times
-    *__Mask Indentification : Identifying the people with Mask 
-    *__Old Age/Kids Identification : Identifying old age people and kids 
-*__Features in UI 
-    *__Support for IOS Application 
-	*__Adding the statistics related to total head count, old Age people and kids
-    *__Integeration of UI with the third party APP's like Google API, Arogya Setu APP
+Features in Model 
+    *HeadCount : Calculating the total head count in the targeted area. Useful for evacutation in PANIC times
+    *Mask Indentification : Identifying the people with Mask 
+    *Old Age/Kids Identification : Identifying old age people and kids 
+Features in UI 
+    *Support for IOS Application 
+	*Adding the statistics related to total head count, old Age people and kids
+    *ntegeration of UI with the third party APP's like Google API, Arogya Setu APP
 	
 ![Product_roadMap](documents/Product_RoadMap.gif)
 	
