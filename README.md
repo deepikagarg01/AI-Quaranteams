@@ -27,8 +27,7 @@ Raw Data obtained from Section-1 is stored in central server/db/respository . Wh
 # Getting Started 
 The instructions can help you to install the project on you local environment
 
-
-# Clone the repository
+##Clone the repository
 ```
 git clone https://github.com/deepikagarg01/AI-Quaranteams.git
 
@@ -79,7 +78,7 @@ The last two points are used to mark two points 6 feet apart in the region of in
 
 The gif below will help understand the points better
 ![mark4points](images/mark4points.gif)
-![mark4points](images/pedestrian.gif)
+![mark4points](images/Pedestrian.gif)
 
 ## How does it work?
 The complete block diagram of the algorithm can be seen below.
