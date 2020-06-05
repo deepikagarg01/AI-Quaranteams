@@ -7,14 +7,13 @@
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
-1. [Built with](#built-with)
 1. [Contributing](#contributing)
+1. [Built with](#built-with)
 1. [Versioning](#versioning)
 1. [Authors](#authors)
 1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+
 
 
 ## Short Description
@@ -148,6 +147,9 @@ The complete block diagram of the algorithm can be seen below.
 * [IBM Angular API](https://www.ibm.com/cloud/blog/simple-angular-node-application) - The web framework used
 * [IBM Watson Studio](https://eu-gb.dataplatform.cloud.ibm.com/home?context=wdp&apps=data_science_experience&nocache=true)-Data Preparation
 
+## Versioning
+
+We use git for versioning. 
 
 
 
