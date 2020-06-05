@@ -74,13 +74,14 @@ These 4 points need to be provided in a pre-defined order which is following.
 
 #### Last 2 points:
 The last two points are used to mark two points 6 feet apart in the region of interest. For example this could be a person's height (easier to mark on the frame)
-
+How does it work?
 The complete block diagram of the algorithm can be seen below.
 ![block_diagram](images/block_diagram.gif)
 ```
 
 The gif below will help understand the points better
 ![mark4points](images/mark4points.gif)
+
 ![mark4points](images/Pedestrian.gif)
 ```
 
@@ -91,5 +92,5 @@ The Diagram shows the High Level Design
 The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 ```
-How does it work?
+
 
