@@ -80,7 +80,7 @@ The complete block diagram of the algorithm can be seen below.
 The gif below will help understand the points better
 ![mark4points](images/mark4points.gif)
 ![mark4points](images/Pedestrian.gif)
-```
+
 
 ####Project Documentation
 The Diagram shows the High Level Design 
