@@ -82,12 +82,12 @@ The gif below will help understand the points better
 
 ## How does it work?
 The complete block diagram of the algorithm can be seen below.
-![Block Diagram](images/block_diagram.png)
+![block_diagram](images/block_diagram.png)
 ```
 
 ## Project Documentation
 The Diagram shows the High Level Design 
-![Project_Documents](documents/Architectural_Diagram.jpeg)
-![Project_Documents](documents/TensorFlow_Diagram.jpeg)
+![Architectural_Diagram](documents/Architectural_Diagram.jpeg)
+![TensorFlow_Diagram](documents/TensorFlow_Diagram.jpeg)
 
 
