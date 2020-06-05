@@ -1,29 +1,66 @@
-# SocialDistancingAI
+# AI QuaranTeams 
 Using python, deep learning and computer vision to monitor social distancing.
 Idea Credits: LandingAI
 
-[![Watch the video](/images/cover.png)](https://www.youtube.com/watch?v=kxFwbn7Tap0&feature=emb_title)
+# Short Description
+Efficient Solution to monitor Social Distancing and take corrective measures 
 
-# How to install?
-It’s advisable to [make a new virtual environment](https://towardsdatascience.com/setting-up-python-platform-for-machine-learning-projects-cfd85682c54b) for this project and install the dependencies. Following steps can be taken to download get started with the project
+# Long Description
+AI Quarateams in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the voilations happening in other areas and get the cummulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
+Solution can be described in 3 Sections 
 
-## Clone the repository
+Section -1 
+Model for Object Detection, where Camera feed will be an input to the model for detection of  voilations based on the distance set by the user as a minimun required  distance .
+The data will be analysed per frame and can be stored in central server/repository.
+The Model is based on python tensor flow neural networks . Model has been trained by providing various images and manually labelling the images to differentiate between human and other objects.For object detection in a video feed , openCv has been used to get the camera perspective and perspective transformation for finding the minimum distance required for social distancing.We are using condense matrix implementation for identifying the distance between many objects detected within a particular frame.If the distance is less than the threshold value , voilation count increases.
+
+UI 
+Section -2 
+Authorized user can view the data using our website. On Successful user login , google AP will request for the user location and display the user's location data (user location is a default location). Other Regions data can be seen by selecting the location on google map .
+Based on the region selection the data will fetched from central server along with the live feed. Statistics of different regions can be compared . For alarming situations SMS/Email can be sent to the designated person.
+
+Mobile App and QR Code 
+For Easy Handling QR code and  Android Mobile Application has been created . User can view the voilations on mobile phones .
+
+Section -3 
+Data Filteration :
+Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
+
+# Getting Started 
+The instructions can help you to install the project on you local environment
+
+
+# Clone the repository
 ```
-git clone https://github.com/aqeelanwar/SocialDistancingAI.git
-```
-## Install required packages
-The provided requirements.txt file can be used to install all the required packages. Use the following command
+git clone https://github.com/deepikagarg01/AI-Quaranteams.git
+
 
 ```
-cd SocialDistancingAI
-pip install –r requirements.txt
+##Prerequisite 
+
+Softwares required 
+1. Windows Server
+2. Python 3.5 or above 
+3. Deploy a windows server 2019 - Please note if Linux is used then make sure linux is installed with desktop 
+4. For Linux server enable the X11 Forwarding and gnome 
+5. Install Python 3.5 or above 
+5. If Pip 20.0 is not available then use get-pip.py 
+   and run python get-pip.py
 ```
 
 
 ## Run the project
 ```
-cd SocialDistancingAI
-python main.py --videpath "vid_short.mp4"
+Steps 
+cd AI-Quaranteams
+1. pip install –r requirements.txt
+2. pip install -q tensorflow==2.0.0-alpha0
+3. resolve the dependencies using pip -install
+4. pip install imageio
+5. pip install ffmpeg
+6. pip install imagio-ffmpeg
+7. run command python main.py --videopath "VideoPath" --region "Area_Name"
+8. output will be a CSV File and .mp4 video .mp4 for bird eye view
 ```
 
 Running main.py will open a window of the first frame in the video. At this point the code expects the user to mark 6 points by clicking appropriate positions on the frame.
@@ -50,6 +87,3 @@ The gif below will help understand the points better
 The complete block diagram of the algorithm can be seen below.
 ![Block Diagram](images/block_diagram.png)
 
-A detailed article on the working of this project can be found [here](https://medium.com/@aqeel.anwar/monitoring-social-distancing-using-ai-c5b81da44c9f)
-
-__Idea credits: LandingAI__
