@@ -24,10 +24,10 @@ Section -3
 Data Filteration :
 Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
 ```
-# Getting Started 
+## Getting Started 
 The instructions can help you to install the project on you local environment
 
-##Prerequisite 
+## Prerequisite 
 
 Softwares required 
 1. Windows Server
@@ -39,11 +39,11 @@ Softwares required
    and run python get-pip.py
 ```
 
-##Clone the repository
+### Clone the repository
 ```
 git clone https://github.com/deepikagarg01/AI-Quaranteams.git
 
-## Run the project
+### Run the project
 ```
 Steps 
 cd AI-Quaranteams
@@ -80,7 +80,7 @@ How does it work?
 The complete block diagram of the algorithm can be seen below.
 ![block_diagram](images/block_diagram.gif)
 
-#####Project Documentation
+# Project Documentation
 The Diagram shows the High Level Design 
 ![Architectural_Diagram](documents/Architectural_Diagram.gif)
 
@@ -88,7 +88,7 @@ The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
 
-#####Project RoadMap
+# Project RoadMap
 The RoadMap  defines the timelines and Upcoming Features
 
 Features in Model 
