@@ -37,7 +37,7 @@ public class QuaranUtil {
 
 	static {
 		// put your accesskey and secretkey here
-		credentials = new BasicAWSCredentials("YourAccessKey", "YourSecretKey");
+		credentials = new BasicAWSCredentials("accesskey", "secretkey");
 	}
 
 	/**
@@ -244,6 +244,10 @@ public class QuaranUtil {
 			csv.setZoneCategory(data[7]);
 			csv.setContainmentZoneDistance(data[8]);
 			csv.setActiveCovidCases(data[9]);
+			final int min = 3;
+			final int max = 50;
+			csv.setAvgHourlyViolations((int) (Math.random() * (max - min + 1) + min) + "");
+			csv.setLastDayViolationCount((int) (Math.random() * (max - min + 1) + min) + "");
 			socialDistancingCSVs.add(csv);
 		}
 		return csv;

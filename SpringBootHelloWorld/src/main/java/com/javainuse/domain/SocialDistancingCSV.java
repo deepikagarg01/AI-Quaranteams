@@ -18,6 +18,8 @@ public class SocialDistancingCSV {
 	private String areaName;
 	private String activeCovidCases;
 	private Double distanceFromInput;
+	private String avgHourlyViolations;
+	private String lastDayViolationCount;
 
 	public String getId() {
 		return id;
@@ -156,6 +158,22 @@ public class SocialDistancingCSV {
 				+ ", minsFromTimestamp=" + minsFromTimestamp + ", dateFromTimestamp=" + dateFromTimestamp
 				+ ", areaName=" + areaName + ", activeCovidCases=" + activeCovidCases + ", distanceFromInput="
 				+ distanceFromInput + "]";
+	}
+
+	public String getAvgHourlyViolations() {
+		return avgHourlyViolations;
+	}
+
+	public void setAvgHourlyViolations(String avgHourlyViolations) {
+		this.avgHourlyViolations = avgHourlyViolations;
+	}
+
+	public String getLastDayViolationCount() {
+		return lastDayViolationCount;
+	}
+
+	public void setLastDayViolationCount(String lastDayViolationCount) {
+		this.lastDayViolationCount = lastDayViolationCount;
 	}
 
 }
