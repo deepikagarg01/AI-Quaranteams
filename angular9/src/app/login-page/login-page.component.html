@@ -1,0 +1,52 @@
+<section class="banner">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="banner-text">
+                    <h5 class="main-color mb-3">AI Quaran Team</h5>
+                    <h1 class="font-weight-bold  mb-3">AI for Social Distancing</h1>
+                    <p class=" mb-4">AI-based solution to manage and enforce social distancing. This solution will utilize the feeds from surveillance camera (CCTV) from a crowded place to automatically flag the situation where norms are violated. It leverages use of AI to capture humans in a video stream.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 login-area">
+                <h3>Login</h3>
+                <br />
+                <div class="iq-login">
+                    <form class="iq-loginbox">
+                        <div class="form">
+                            <div class="plan cf">
+                                <input type="radio" name="loginTypes" [(ngModel)]="isPublic" id="free" [value]="true"><label class="free-label four col" for="free">Public</label>
+                                <input type="radio" name="loginTypes" [(ngModel)]="isPublic" id="basic" [value]="false" checked><label class="basic-label four col" for="basic">Admin</label>
+                            </div>
+                        </div>
+
+                        <div class="login-boxes mb-3">
+                            <label for="exampleInputEmail1">Email Address</label>
+                            <input type="email" class="form-control email-bg" id="exampleInputEmail1" placeholder="Email">
+                        </div>
+                        <div class="login-boxes mb-3">
+                            <label for="exampleInputPassword1">Password</label>
+                            <input type="password" class="form-control email-bg" id="exampleInputPassword1" placeholder="Password">
+                        </div>
+
+                        <button type="submit" class="button" style="width: 38%; left: 34%; margin: 20px 0;" (click)="goToDashboard()">Login</button>
+                    </form>
+                    <div class="row">
+                        <div class="col-sm-6">
+
+                            <a href="#" class="link" style="outline: medium none !important;color:#000704;">Forgot Password?</a>
+
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="text-right">
+                                <div class="link" style="outline: medium none !important;color:#000704;">Don't Have an Account?</div>
+                                <div class="link"> <a href="#">Register Now</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
