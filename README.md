@@ -87,7 +87,7 @@ The complete block diagram of the algorithm can be seen below.
 
 ## Project Documentation
 The Diagram shows the High Level Design 
-![Architectural_Diagram](documents/Architectural_Diagram.jpeg)
-![TensorFlow_Diagram](documents/TensorFlow_Diagram.jpeg)
+![Architectural_Diagram](documents/Architectural_Diagram.gif)
+![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
 
