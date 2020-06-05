@@ -1,7 +1,7 @@
 # AI QuaranTeams 
-Using python, deep learning and computer vision to monitor social distancing.
+
 # Short Description
-Efficient Solution to monitor Social Distancing and take corrective measures 
+Efficient Solution to monitor Social Distancing and take corrective measures
 
 # Long Description
 AI Quarateams in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the voilations happening in other areas and get the cummulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
@@ -23,16 +23,10 @@ For Easy Handling QR code and  Android Mobile Application has been created . Use
 Section -3 
 Data Filteration :
 Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
-
+```
 # Getting Started 
 The instructions can help you to install the project on you local environment
 
-##Clone the repository
-```
-git clone https://github.com/deepikagarg01/AI-Quaranteams.git
-
-
-```
 ##Prerequisite 
 
 Softwares required 
@@ -45,6 +39,9 @@ Softwares required
    and run python get-pip.py
 ```
 
+##Clone the repository
+```
+git clone https://github.com/deepikagarg01/AI-Quaranteams.git
 
 ## Run the project
 ```
@@ -59,6 +56,7 @@ cd AI-Quaranteams
 7. run command python main.py --videopath "VideoPath" --region "Area_Name"
 8. output will be a CSV File and .mp4 video .mp4 for bird eye view
 ```
+
 
 Running main.py will open a window of the first frame in the video. At this point the code expects the user to mark 6 points by clicking appropriate positions on the frame.
 
@@ -83,4 +81,5 @@ The gif below will help understand the points better
 ## How does it work?
 The complete block diagram of the algorithm can be seen below.
 ![Block Diagram](images/block_diagram.png)
+
 
