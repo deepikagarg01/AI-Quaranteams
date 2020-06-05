@@ -141,6 +141,16 @@ The complete block diagram of the algorithm can be seen below.
 ![block_diagram](images/block_diagram.gif)
 
 
+## Built with
+
+* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Cloud Server
+* [IBM Cloud Foundary](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry) - DashBoard Creation 
+* [IBM Angular API](https://www.ibm.com/cloud/blog/simple-angular-node-application) - The web framework used
+* [IBM Watson Studio](https://eu-gb.dataplatform.cloud.ibm.com/home?context=wdp&apps=data_science_experience&nocache=true)-Data Preparation
+
+
+
+
 
 
 
