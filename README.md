@@ -148,7 +148,7 @@ The complete block diagram of the algorithm can be seen below.
 We use gitlab for versioning. 
 
 ## Authors
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/deepikagarg01/AI-Quaranteams/graphs/contributors) who participated in this project.
 
 
 
