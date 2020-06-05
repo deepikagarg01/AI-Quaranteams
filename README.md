@@ -83,7 +83,7 @@ The gif below will help understand the points better
 ## How does it work?
 The complete block diagram of the algorithm can be seen below.
 ![block_diagram](images/block_diagram.gif)
-```
+
 
 ## Project Documentation
 The Diagram shows the High Level Design 
