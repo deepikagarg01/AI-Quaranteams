@@ -86,7 +86,7 @@ The Diagram shows the High Level Design
 
 The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
-```
+
 
 ####Project RoadMap
 The RoadMap  defines the timelines and Upcoming Features
