@@ -57,8 +57,6 @@ cd AI-Quaranteams
 8. output will be a CSV File and .mp4 video .mp4 for bird eye view
 
 
-
-
 Running main.py will open a window of the first frame in the video. At this point the code expects the user to mark 6 points by clicking appropriate positions on the frame.
 
 #### First 4 points:
@@ -77,7 +75,7 @@ The last two points are used to mark two points 6 feet apart in the region of in
 How does it work?
 The complete block diagram of the algorithm can be seen below.
 ![block_diagram](images/block_diagram.gif)
-```
+
 #### points
 The gif below will help understand the points better
 ![mark4points](images/mark4points.gif)
