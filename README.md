@@ -97,7 +97,7 @@ Software's required
 
 ### Clone the repository
 
-git clone https://github.com/deepikagarg01/AI-Quaranteams.git
+git clone https://github.com/deepikagarg01/AI-Quaranteam.git
 
 ### Run the project
 
