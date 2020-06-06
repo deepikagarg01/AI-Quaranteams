@@ -7,9 +7,9 @@
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Versioning](#versioning)
+1. [Authors](#Authors)
 
 
 ## Short Description
@@ -28,7 +28,7 @@ We can help to simply the job for all rescue team deployed for ensuring the soci
 Our Solution can be deployed to all the area under CCTV Scrutiny , where CCTV feed will be used to find the social distancing voilations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
 
 ## Demo video
-
+[![Watch the video](demo_video/AI_Quaranteams_demo_video.mp4)
 
 ## The architecture
 The Diagram shows the High Level Design 
