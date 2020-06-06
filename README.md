@@ -70,12 +70,12 @@ Features in Model
     1.HeadCount : Calculating the total head count in the targeted area. Useful for evacuation in Emergency 
     2.Mask Identification : Identifying the people with Mask 
     3.Old Age/Kids Identification : Identifying old age people and kids 
-	4.People carryin Arms in public places 
+    4.People carrying Arms in public places 
 	
 Features in UI 
 
-    1.Support for IOS Application 
-	2.Adding the statistics related to total head count, old Age people and kids
+    1.Android App in Google Play Store,Support for IOS Application 
+    2.Adding the statistics related to total head count, old Age people and kids
     3.Integration of UI with the third party APP's like Google API, Arogya Setu APP
 	
 ![Product_roadMap](documents/Product_RoadMap.gif)
@@ -142,7 +142,7 @@ The complete block diagram of the algorithm can be seen below.
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Cloud Server
 * [IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry) - DashBoard Creation 
 * [IBM Angular API](https://www.ibm.com/cloud/blog/simple-angular-node-application) - The web framework used
-* [IBM Watson Studio](https://eu-gb.dataplatform.cloud.ibm.com/home?context=wdp&apps=data_science_experience&nocache=true)-Data Preparation
+* [IBM Watson Studio](https://www.ibm.com/nz-en/cloud/watson-studio?p1=Search&p4=43700054671159508&p5=e&cm_mmc=Search_Google-_-1S_1S-_-AS_NZ-_-ibm%20watson%20studio_e&cm_mmca7=71700000068276508&cm_mmca8=kwd-432445750759&cm_mmca9=Cj0KCQjw_ez2BRCyARIsAJfg-ksmZhituSfmmlAIteaRI0-POBdzOZzWNp5b9gGKIhdS9IWPh-WyjEgaAq4yEALw_wcB&cm_mmca10=439146385192&cm_mmca11=e&gclid=Cj0KCQjw_ez2BRCyARIsAJfg-ksmZhituSfmmlAIteaRI0-POBdzOZzWNp5b9gGKIhdS9IWPh-WyjEgaAq4yEALw_wcB&gclsrc=aw.ds)-Data Preparation
 
 ## Versioning
 
