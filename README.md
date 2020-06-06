@@ -21,11 +21,11 @@ Covid 19 Pandemic has bring up to everyone's  notice that how much social distan
 
 ### How can technology help?
 
-We can help to simply the job of all rescue teams deployed for ensuring the social distancing in an area. Restricted movements can be allowed in Schools, Colleges , Manufacturing Industries ,Public and Private Sectors Workplace.
+We can help to simplify the job of all rescue teams deployed for ensuring the social distancing in an area. Restricted movements can be allowed in Schools, Colleges, Manufacturing Industries ,Public and Private Sectors Workplace.
 
 ### The idea
 
-Our Solution can be deployed to all the area under CCTV Scrutiny , where CCTV feed will be used to find the social distancing violations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
+Our Solution can be deployed to all the area under CCTV Scrutiny, where CCTV feed will be used to find the social distancing violations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
 
 ## Demo video
 ![Watch the video](demo_video/AI_Quaranteams_demo_video.gif)
@@ -38,29 +38,29 @@ The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
 ## Long Description
-AI Quaranteam in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the violations happening in other areas and get the cumulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
-Solution can be described in 3 Sections 
+AI Quaranteam in a complete solution for capturing social distance violation happening in an area. This can be teamed up to find violations happening in other areas and get the cumulative data. Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services. We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening.
+Solution can be described in 3 Sections:
 
 ### Section -1 
-Model for Object Detection, where Camera feed will be an input to the model for detection of  violations based on the distance set by the user as a minimum required  distance .
+Model for Object Detection, where Camera feed will be an input to the model for detection of  violations based on the distance set by the user as a minimum required  distance.
 The data will be analysed per frame and can be stored in central server/repository.
-The Model is based on python tensor flow neural networks . Model has been trained by providing various images and manually labelling the images to differentiate between human and other objects.For object detection in a video feed , openCv has been used to get the camera perspective and perspective transformation for finding the minimum distance required for social distancing.We are using condense matrix implementation for identifying the distance between many objects detected within a particular frame.If the distance is less than the threshold value , violation count increases.
+The Model is based on python tensor flow neural networks. Model has been trained by providing various images and manually labelling the images to differentiate between human and other objects. For object detection in a video feed, openCv has been used to get the camera perspective and perspective transformation for finding the minimum distance required for social distancing. We are using condense matrix implementation for identifying the distance between many objects detected within a particular frame. If the distance is less than the threshold value, violation count increases.
 
 
 ### Section -2 
 User Interface
 
-Authorized user can view the data using our website. On Successful user login , google AP will request for the user location and display the user's location data (user location is a default location). Other Regions data can be seen by selecting the location on google map .
-Based on the region selection the data will fetched from central server along with the live feed. Statistics of different regions can be compared . For alarming situations SMS/Email can be sent to the designated person.
+Authorized user can view the data using our website. On Successful user login, google AP will request for the user location and display the user's location data (user location is a default location). Other Regions data can also be seen by selecting the location on google map.
+Based on the region selection the data will fetched from central server along with the live feed. Statistics of different regions can be compared. For alarming situations SMS/Email can be sent to the designated person.
 
 Mobile App and QR Code 
 
-For Easy Handling QR code and  Android Mobile Application has been created . User can view the violations on mobile phones .
+For Easy Handling QR code and  Android Mobile Application has been created. User can view the violations on mobile phones.
 
 ### Section -3 
 Data Filtration 
 
-Raw Data obtained from Section-1 is stored in central server/db/repository . When end-user requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cumulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
+Raw Data obtained from Section-1 is stored in central server/db/repository. When end-user requests to view the statistics from UI, raw data is fetched for requested location  from central server and  cumulative data is prepared using Global API's which gives the information about the current cases within the requested area, zone information.
 
 ## Project RoadMap
 The RoadMap  defines the timelines and Upcoming Features
@@ -69,12 +69,12 @@ Features in Model
 
     1.HeadCount : Calculating the total head count in the targeted area. Useful for evacuation in Emergency 
     2.Mask Identification : Identifying the people with Mask 
-    3.Old Age/Kids Identification : Identifying old age people and kids 
+    3.Old Age/Kids Identification: Identifying old age people and kids 
     4.People carrying Arms in public places 
 	
 Features in UI 
 
-    1.Android App in Google Play Store,Support for IOS Application 
+    1.Android App in Google Play Store, Support for IOS Application 
     2.Adding the statistics related to total head count, old Age people and kids
     3.Integration of UI with the third party APP's like Google API, Arogya Setu APP
 	
@@ -110,7 +110,7 @@ cd AI-Quaranteams
 5. pip install ffmpeg
 6. pip install imagio-ffmpeg
 7. run command python main.py --videopath "VideoPath" --region "Area_Name"
-8. output will be a CSV File and .mp4 video .mp4 for bird eye view
+8. output will be a CSV File and.mp4 video.mp4 for bird eye view
 
 
 Running main.py will open a window of the first frame in the video. At this point the code expects the user to mark 6 points by clicking appropriate positions on the frame.
