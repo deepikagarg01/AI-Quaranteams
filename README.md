@@ -17,11 +17,11 @@ Efficient Solution to monitor Social Distancing and take corrective measures
 
 ### What's the problem?
 
-Covid 19 Pandemic has bring up to everyone's  notice that how much social distancing is mandatory. We can still see the increasing number of cases in every state/Country due to negligence of Social Distancing Practices.It is hard to deploy large forces to monitor each area manually for a longer duration
+Covid 19 Pandemic has bring up to everyone's  notice that how much social distancing is mandatory. We can still see the increasing number of cases in every state/Country due to negligence of Social Distancing Practices.It is hard to deploy large forces to monitor each area manually for a longer duration.
 
 ### How can technology help?
 
-We can help to simply the job for all rescue team deployed for ensuring the social distancing in an area. Restricted movements can be allowed in Schools, Colleges , Manufacturing Industries ,Public and Private Sectors Workplace
+We can help to simply the job of all rescue teams deployed for ensuring the social distancing in an area. Restricted movements can be allowed in Schools, Colleges , Manufacturing Industries ,Public and Private Sectors Workplace.
 
 ### The idea
 
