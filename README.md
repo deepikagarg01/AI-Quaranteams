@@ -25,10 +25,10 @@ We can help to simply the job for all rescue team deployed for ensuring the soci
 
 ### The idea
 
-Our Solution can be deployed to all the area under CCTV Scrutiny , where CCTV feed will be used to find the social distancing voilations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
+Our Solution can be deployed to all the area under CCTV Scrutiny , where CCTV feed will be used to find the social distancing violations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
 
 ## Demo video
-[![Watch the video](demo_video/AI_Quaranteams_demo_video.mp4)
+[![Watch the video](demo_video/demo)
 
 ## The architecture
 The Diagram shows the High Level Design 
@@ -38,13 +38,13 @@ The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
 ## Long Description
-AI Quarateams in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the voilations happening in other areas and get the cummulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
+AI Quaranteams in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the violations happening in other areas and get the cumulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
 Solution can be described in 3 Sections 
 
 ### Section -1 
-Model for Object Detection, where Camera feed will be an input to the model for detection of  voilations based on the distance set by the user as a minimun required  distance .
+Model for Object Detection, where Camera feed will be an input to the model for detection of  violations based on the distance set by the user as a minimum required  distance .
 The data will be analysed per frame and can be stored in central server/repository.
-The Model is based on python tensor flow neural networks . Model has been trained by providing various images and manually labelling the images to differentiate between human and other objects.For object detection in a video feed , openCv has been used to get the camera perspective and perspective transformation for finding the minimum distance required for social distancing.We are using condense matrix implementation for identifying the distance between many objects detected within a particular frame.If the distance is less than the threshold value , voilation count increases.
+The Model is based on python tensor flow neural networks . Model has been trained by providing various images and manually labelling the images to differentiate between human and other objects.For object detection in a video feed , openCv has been used to get the camera perspective and perspective transformation for finding the minimum distance required for social distancing.We are using condense matrix implementation for identifying the distance between many objects detected within a particular frame.If the distance is less than the threshold value , violation count increases.
 
 
 ### Section -2 
@@ -55,12 +55,12 @@ Based on the region selection the data will fetched from central server along wi
 
 Mobile App and QR Code 
 
-For Easy Handling QR code and  Android Mobile Application has been created . User can view the voilations on mobile phones .
+For Easy Handling QR code and  Android Mobile Application has been created . User can view the violations on mobile phones .
 
 ### Section -3 
-Data Filteration 
+Data Filtration 
 
-Raw Data obtained from Section-1 is stored in central server/db/respository . When enduser requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cummulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
+Raw Data obtained from Section-1 is stored in central server/db/repository . When end-user requests to view the statistics from UI , raw data is fetched for requested location  from central server and  cumulative data is prepared using Global API's which gives the information about the current cases within the requested area , zone information .
 
 ## Project RoadMap
 The RoadMap  defines the timelines and Upcoming Features
@@ -68,14 +68,15 @@ The RoadMap  defines the timelines and Upcoming Features
 Features in Model 
 
     1.HeadCount : Calculating the total head count in the targeted area. Useful for evacuation in Emergency 
-    2.Mask Indentification : Identifying the people with Mask 
+    2.Mask Identification : Identifying the people with Mask 
     3.Old Age/Kids Identification : Identifying old age people and kids 
+	4.People carryin Arms in public places 
 	
 Features in UI 
 
     1.Support for IOS Application 
 	2.Adding the statistics related to total head count, old Age people and kids
-    3.Integeration of UI with the third party APP's like Google API, Arogya Setu APP
+    3.Integration of UI with the third party APP's like Google API, Arogya Setu APP
 	
 ![Product_roadMap](documents/Product_RoadMap.gif)
 	
@@ -84,7 +85,7 @@ The instructions can help you to install the project on you local environment
 
 ### Prerequisite 
 
-Softwares required 
+Software's required 
 1. Windows Server
 2. Python 3.5 or above 
 3. Deploy a windows server 2019 - Please note if Linux is used then make sure linux is installed with desktop 
@@ -139,7 +140,7 @@ The complete block diagram of the algorithm can be seen below.
 ## Built with
 
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Cloud Server
-* [IBM Cloud Foundary](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry) - DashBoard Creation 
+* [IBM Cloud Foundry](https://www.cloudfoundry.org/the-foundry/ibm-cloud-foundry) - DashBoard Creation 
 * [IBM Angular API](https://www.ibm.com/cloud/blog/simple-angular-node-application) - The web framework used
 * [IBM Watson Studio](https://eu-gb.dataplatform.cloud.ibm.com/home?context=wdp&apps=data_science_experience&nocache=true)-Data Preparation
 
