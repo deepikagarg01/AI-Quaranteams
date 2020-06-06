@@ -50,8 +50,8 @@ The Model is based on python tensor flow neural networks. Model has been trained
 ### Section -2 
 User Interface
 
-Authorized user can view the data using our website. On Successful user login, google AP will request for the user location and display the user's location data (user location is a default location). Other Regions data can also be seen by selecting the location on google map.
-Based on the region selection the data will fetched from central server along with the live feed. Statistics of different regions can be compared. For alarming situations SMS/Email can be sent to the designated person.
+Authorized user can view the data using our website. On Successful user login, google API will request for the user location and display the user's location data (user location is a default location). Other Regions data can also be seen by selecting the location on google map.
+Based on the region selection the data will be fetched from central server along with the live feed. Statistics of different regions can be compared. For alarming situations SMS/Email can be sent to the designated person.
 
 Mobile App and QR Code 
 
