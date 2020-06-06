@@ -71,12 +71,14 @@ Features in Model
     2.Mask Identification : Identifying the people with Mask 
     3.Old Age/Kids Identification: Identifying old age people and kids 
     4.People carrying Arms in public places 
+    
 	
 Features in UI 
 
     1.Android App in Google Play Store, Support for IOS Application 
     2.Adding the statistics related to total head count, old Age people and kids
     3.Integration of UI with the third party APP's like Google API, Arogya Setu APP
+    4.Registration for Multiple CCTV URL's
 	
 ![Product_roadMap](documents/Product_RoadMap.gif)
 	
