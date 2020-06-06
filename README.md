@@ -28,7 +28,7 @@ We can help to simply the job for all rescue team deployed for ensuring the soci
 Our Solution can be deployed to all the area under CCTV Scrutiny , where CCTV feed will be used to find the social distancing violations happening with in the area. The data obtained from CCTV feed can be used to notify the Local Administrator about the current situation of the region and take the necessary actions.
 
 ## Demo video
-[![Watch the video](demo_video/demo)
+[![Watch the video](demo_video/AI_Quaranteams_demo_video.gif)
 
 ## The architecture
 The Diagram shows the High Level Design 
