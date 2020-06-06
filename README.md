@@ -1,4 +1,4 @@
-# AI QuaranTeams 
+# AI QuaranTeam
 
 ## Contents
 1. [Short description](#short-description)
@@ -38,7 +38,7 @@ The Diagram shows the Human Detection Process
 ![TensorFlow_Diagram](documents/TensorFlow_Diagram.gif)
 
 ## Long Description
-AI Quaranteams in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the violations happening in other areas and get the cumulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
+AI Quaranteam in a complete solution for capturing social distancing violation happening in an area . This can be teamed up to find the violations happening in other areas and get the cumulative data .Based on the alarming situation in each area their respective Local Administrators can be informed using a Text Message/Email Services . We can compare the statistics of different areas and figure out which region needs more attention based on the active cases and new violations happening .
 Solution can be described in 3 Sections 
 
 ### Section -1 
