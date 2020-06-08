@@ -3,6 +3,7 @@
 ## Contents
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
+1. [Detailed video](#detailed-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
@@ -29,6 +30,10 @@ Our Solution can be deployed to all the area under CCTV Scrutiny, where CCTV fee
 
 ## Demo video
 [![Watch the video](images/Demo_Video.png)](https://youtu.be/uk7C-x1zBPs)
+
+## Detailed video
+[![Watch the video](images/Detailed_Video.png)](https://youtu.be/JnLEEOXUN-s)
+
 
 ## The architecture
 The Diagram shows the High Level Design 
